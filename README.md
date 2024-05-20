@@ -1,38 +1,40 @@
 # Multimedia_Gruppe1
 
-Project Outline Doc:
-https://docs.google.com/document/d/1fA2YTi4c2G3YQJbx4NEYlCjT_luXYsmt4T2M1RpR-h4/edit
-Repository für Multimedia Programmierung.
+**Project Outline Doc:**
+[Project Outline Document](https://docs.google.com/document/d/1fA2YTi4c2G3YQJbx4NEYlCjT_luXYsmt4T2M1RpR-h4/edit)
+
+**Repository für Multimedia Programmierung**
 
 ## Name
 Refuel
 
 ## Description
-Topdown Shooter game, created with Unity. Try to survive against several alien waves. Refuel your rocket with plasma and try to escape !
+"Refuel" is a top-down shooter game created with Unity. Survive against waves of aliens, refuel your rocket with plasma, and try to escape!
 
 ## Installation
-Project created with unity version 2021.3.4f1
+The project was created with Unity version 2021.3.4f1.
 
 ## Usage
-Unity scenes:
+**Unity Scenes:**
+- **GameScreen:** The main game scene for Refuel.
+- **LoadingScreen:** A loading screen with a story and an option to skip.
+- **MenuScreen:** A menu with options to start or end the game and adjust the volume.
 
-GameScreen: Refuel game
-LoadingScreen: loading screen with story and possibility to skip it
-MenuScreen: Menu with options to start, end and change volume.
--> Abilites with left and right click.
--> Move with WASD
+**Controls:**
+- **Abilities:** Use the left and right mouse buttons.
+- **Movement:** Use the WASD keys.
 
 ## Roadmap
--> More Abilities
--> Better Sprites
--> Improved Wave management
+- Add more abilities.
+- Improve sprites.
+- Enhance wave management.
 
 ## Contributing
-Not possible
+Contributions are not possible at this time.
 
-## Authors and acknowledgment
-From: Nicolas Maximilian Zach, Dominik Schwimmbeck, Sangyoon Han, Khac Nhat Minh Le.
-Inspired by the game Vampire Survivors.
+## Authors and Acknowledgments
+Developed by Nicolas Maximilian Zach, Dominik Schwimmbeck, Sangyoon Han, and Khac Nhat Minh Le (@lek).
+Inspired by the game "Vampire Survivors."
 
-## Project status
-finished soon
+## Project Status
+The project is nearing completion.
