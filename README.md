@@ -1,8 +1,5 @@
 # Multimedia_Gruppe1
 
-**Project Outline Doc:**
-[Project Outline Document](https://docs.google.com/document/d/1fA2YTi4c2G3YQJbx4NEYlCjT_luXYsmt4T2M1RpR-h4/edit)
-
 **Repository für Multimedia Programmierung**
 
 ## Name
